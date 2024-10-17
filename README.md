@@ -1,0 +1,2 @@
+# MiniMaxAI
+MiniMax AI
